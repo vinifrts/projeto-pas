@@ -1,2 +1,2 @@
 # projeto-pas
-![Class_Diagram](Class_Diagram/Class_Diagram.jfif)
+![Class_Diagram](Class_Diagram/Diagrama_GS.jpeg)
